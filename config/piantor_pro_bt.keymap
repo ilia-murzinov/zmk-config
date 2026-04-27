@@ -499,7 +499,7 @@
 
         macros {
             bindings = <
-&none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &personal_email  &last_name  &name  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
+&none  &bootloader  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &personal_email  &last_name  &name  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
             >;
         };
     };
