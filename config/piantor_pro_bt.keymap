@@ -439,7 +439,7 @@
 
         nav {
             bindings = <
-&none  &kp LG(N1)  &kp LG(N2)  &kp LG(N3)  &kp LG(N4)  &kp LG(N5)  &none  &kp PAGE_DOWN  &kp PAGE_UP  &none  &none  &none  &none  &kp LEFT_SHIFT  &kp LC(UP)  &kp LC(LEFT)  &kp LC(RIGHT)  &none  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp BSPC  &none  &none  &none  &none  &kp LG(LS(LEFT_BRACKET))  &kp LG(LS(RIGHT_BRACKET))  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
+&none  &kp LG(N1)  &kp LG(N2)  &kp LG(N3)  &kp LG(N4)  &kp LG(N5)  &none  &kp PAGE_DOWN  &kp PAGE_UP  &none  &none  &none  &none  &kp LEFT_SHIFT  &kp LC(UP)  &kp LC(LEFT)  &kp LC(RIGHT)  &none  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &none  &none  &none  &none  &none  &kp LG(LS(LEFT_BRACKET))  &kp LG(LS(RIGHT_BRACKET))  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
             >;
         };
 
